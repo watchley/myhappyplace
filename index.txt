@@ -1,1 +1,2 @@
-Add some stupid data for git testing
+That probably wasn't as stupid as I thought so maybe I
+need to amend this document.
